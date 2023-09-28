@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775893733895",
+    "project_id": "rootdetection-9358c",
+    "storage_bucket": "rootdetection-9358c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775893733895:android:dd928ceab64723b52a10a2",
+        "android_client_info": {
+          "package_name": "com.deanuharatinu.rootdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo6Ibqb7O1hZE0Cq1Pnma5qWafnweEy3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
