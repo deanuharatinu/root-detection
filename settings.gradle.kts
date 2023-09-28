@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RootDetection"
 include(":app")
- 
+include(":rootdetector")
